@@ -1,9 +1,9 @@
 
 # Shane McAfee's Portfolio
 
-I am a computer engineering major at CSUF and I plan on graduating in 2028.
+I am a computer engineering major at [Cal State Fullerton](fullerton.edu) and I plan on graduating in 2028.
 
-View my GitHub page [here](https://github.com/ShaneMcAfee/)
+View my GitHub page [here](https://github.com/ShaneMcAfee/).
 
 ## Favorite CPSC 120L Labs
 
