@@ -9,10 +9,10 @@ Labs 8, 9, and 10 were my favorites. Each of these labs were centered around con
 
 Figuring out how to apply each one took time, patience, and research. Each one had difficulties that required meticulous inspection, and pushed me to write out my thoughts or seek online resources to figure out the cause of my frustration.
 
-Specifically:
--command line arguments
--loops, nested loops
--2D vectors
--read/write files, I/O stream
+The specific tools I found to be interesting are:
+* command line arguments
+* loops, nested loops
+* 2D vectors
+* read/write files, I/O stream
 
 
